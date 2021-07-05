@@ -11,9 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his ...
 - ⚡ Fun fact: I am also a minecraft dev ...
 -->
+
 ```js
+
 <Quick Introduction>
-**Hello**! I am friktiny.  a code addict and a Mc[Minecraft] Gamer :).
+
+Hello! I am friktiny.  a code addict and a Mc[Minecraft] Gamer :).
+
 ```
 
 - 🌱 I’m currently learning to develop things in python and java..
