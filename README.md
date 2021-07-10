@@ -37,6 +37,12 @@ Hello! I am friktiny.  a code addict and a Mc[Minecraft] Gamer :).
 <img src="https://github-readme-stats.vercel.app/api?username=friktiny&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ---
+![Discord](https://discord.c99.nl/widget/theme-6/605994817918599179.png)
+<a href="https://discord.gg/G8xpUbjSFH">
+
+  <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+
+</a>
 
 ### Languages and Tools I Use:
 
