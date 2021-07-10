@@ -40,7 +40,7 @@ Hello! I am friktiny.  a code addict and a Mc[Minecraft] Gamer :).
 ![Discord](https://discord.c99.nl/widget/theme-6/605994817918599179.png)
 <a href="https://discord.gg/G8xpUbjSFH">
 
-  <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Discord Server" width="200px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
 </a>
 
@@ -62,7 +62,7 @@ Hello! I am friktiny.  a code addict and a Mc[Minecraft] Gamer :).
 
 <a href="https://discord.gg/G8xpUbjSFH">
 
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="90"/>
 
     </a>
 
