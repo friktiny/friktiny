@@ -71,6 +71,9 @@ Hello! I am friktiny.  a code addict and a Mc[Minecraft] Gamer :).
 
 
   **© [friktiny](https://github.com/friktiny)**
+  
+  
+  <a href="https://discord.gg/G8xpUbjSFH"><img src="http://invidget.switchblade.xyz/G8xpUbjSFH"/></a>
 
 ---
 
