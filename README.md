@@ -74,6 +74,9 @@ Hello! I am friktiny.  a code addict and a Mc[Minecraft] Gamer :).
   
   
   <a href="https://discord.gg/G8xpUbjSFH"><img src="http://invidget.switchblade.xyz/G8xpUbjSFH"/></a>
+  
+  
+  my bot <a href="https://discordbotlist.com/bots/771186869420556350"><img src="https://discordbotlist.com/api/v1/bots/771186869420556350/widget"></a>
 
 ---
 
