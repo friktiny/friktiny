@@ -28,7 +28,7 @@ Hello! I am friktiny.  a code addict and a Mc[Minecraft] Gamer :).
 
 - 😅 Pronounce - He/His.
 
-- 👋 You can contact with me regarding anything in Discord by joining my server [here](https://discord.gg/G8xpUbjSFH) or adding me as a friend in Discord - **Rubin#4340**.
+- 👋 You can contact with me regarding anything in Discord by joining my server [here](https://discord.gg/G8xpUbjSFH) or adding me as a friend in Discord - **Dev friktiny#4340**.
 
 - ⚡ Fun fact: I am also a minecraft dev...
 
