@@ -20,11 +20,11 @@ Hello! I am friktiny.  a code addict and a Mc[Minecraft] Gamer :).
 
 ```
 
-- 🌱 I’m currently learning to develop things in python and java..
+- 🌱 I’m currently learning to develop things in python ..
 
-- 💎 I am a discord professionate Bot Dev as well as a Server Designer...
+- 💎 I am a discord Bot Dev as well as a Server Designer...
 
-- 🙄 Invite my full stack multi-purpose bot [here](https://discord.com/oauth2/authorize?client_id=771186869420556350&scope=bot&permissions=8589934591)..
+- 🙄 Invite my  multi-purpose bot [here](https://discord.com/oauth2/authorize?client_id=771186869420556350&scope=bot&permissions=8589934591)..
 
 - 😅 Pronounce - He/His.
 
